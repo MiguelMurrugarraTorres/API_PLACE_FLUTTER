@@ -6,6 +6,9 @@ Hemos estado trabajando en el desarrollo de una aplicación en Flutter que utili
 
 Para lograr esto, hemos utilizado el widget `TextField` de Flutter para permitir a los usuarios ingresar el nombre o la ubicación del lugar que desean buscar. Luego, utilizamos la API de Places de Google Maps para realizar la búsqueda de lugares y mostrar los resultados en un widget `ListView` o `GridView`.
 
+![image](https://github.com/MiguelMurrugarraTorres/API_PLACE_FLUTTER/assets/20019777/949a5413-f7df-4db8-acb9-2113f40f7c18)
+
+
 ### Mostrar fotos
 
 Para mostrar las fotos de los lugares, utilizamos el widget `Image` de Flutter. Obtuvimos las URL de las fotos desde la respuesta de la API y las mostramos en este widget.
